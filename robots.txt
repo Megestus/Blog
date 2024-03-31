@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://megestus.top/blog/sitemap.xml
+Sitemap: https:///about.md/blog/sitemap.xml
